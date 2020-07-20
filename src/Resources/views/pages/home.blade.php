@@ -1,0 +1,1 @@
+@extends("customer::layout.master")
